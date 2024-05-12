@@ -1,0 +1,2 @@
+- 👋 Hi, and welcome to my github page for Unity C# scripts and projects.
+- This account is focused on collecting a portfolio of systems built in Unity.
